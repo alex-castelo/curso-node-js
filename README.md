@@ -19,19 +19,7 @@ This is a pet project to learn Node.js by building a REST API using the MVC patt
 
 ### Installation
 
-1. Clone the repository:
-
-```sh
-git clone https://github.com/yourusername/your-repo-name.git
-```
-
-2. Navigate to the project directory:
-
-```sh
-cd your-repo-name
-```
-
-3. Install dependencies:
+1. Install dependencies:
 
 ```sh
 npm install
@@ -39,7 +27,7 @@ npm install
 
 ### Running the Application
 
-1. Start the development server:
+2. Start the development server:
 
 ```sh
 npm start
